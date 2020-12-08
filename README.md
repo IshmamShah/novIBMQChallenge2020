@@ -8,3 +8,7 @@ Solutions to all challenges
 Shah Ishmam Mohtashim
 4th year, Department of Chemistry
 University of Dhaka
+
+
+#Standings
+
